@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "194752550979",
+    "firebase_url": "https://budjetsnap-default-rtdb.firebaseio.com",
+    "project_id": "budjetsnap",
+    "storage_bucket": "budjetsnap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194752550979:android:0fe469332e45c115c59cf6",
+        "android_client_info": {
+          "package_name": "com.example.budget_snap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwX9qamR7RbK-FyN3c24Cd3XrXYBc-zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
